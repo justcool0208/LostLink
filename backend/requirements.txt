@@ -3,3 +3,5 @@ uvicorn
 pymongo
 python-multipart
 python-jose
+python-dotenv
+
